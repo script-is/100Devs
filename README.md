@@ -1,3 +1,3 @@
 # 100Devs
 Repository for projects made for 100Devs Course
-Day 2
+Day 3
